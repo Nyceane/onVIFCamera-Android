@@ -11,6 +11,8 @@ To run the example project, clone the repo, and compile in Android Studio
 
 
 ## Requirements
+Hardware: Android phone that runs KitKat (4.4) or newer
+Software: Android Studio
 
 To use this project on an Android device (real device, not a simulator), with android min SDK at 19, Android 4.4 KitKat
 
