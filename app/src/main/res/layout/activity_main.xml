@@ -92,11 +92,22 @@
 
         <Button
             android:id="@+id/btnPlay"
+            android:padding="10dp"
             android:layout_centerHorizontal="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/wrapperPassword"
             android:text="play"/>
+
+
+        <Button
+            android:id="@+id/btnVIFInfo"
+            android:padding="10dp"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btnPlay"
+            android:text="log info"/>
     </RelativeLayout>
 
 </android.support.constraint.ConstraintLayout>
