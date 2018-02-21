@@ -1,6 +1,6 @@
 # onVIFCamera-Anroid
 
-This library have been developped to ease the connection of an iOS device to an ONVIF Camera.
+This library have been developped to ease the connection of an Android device to an ONVIF Camera.
 With this library you are able to get the informations from a camera, the different media profiles available and retrieve the stream URI to play it.
 
 ![Screenshot](screenshot.png)
